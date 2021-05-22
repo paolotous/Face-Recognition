@@ -1,5 +1,5 @@
 # Face-Recognition
-Machine Learning Model that recognizes the face by training on a dataset of images
+Machine Learning Model that recognizes the face by training on a dataset of images.
 
 # What you can do
 I would recommend at least 100 images for each person you would like the model to recognize.
@@ -15,6 +15,6 @@ I'm using Scikit-Learn's SVM algorithm, I decided to make a pipeline with PCA as
 You can either use some images to test it out or turn on the webcam and check if the model recognizes you. Both versions will be in different branches so feel free to try both.
 
 # Tools used
-Language / Environment: Python and Jupyter
-Libraries: Scikit-Learn, Opencv, Numpy
+Language / Environment: Python and Jupyter | 
+Libraries: Scikit-Learn, Opencv, Numpy |
 Algorithms: SVM and PCA
